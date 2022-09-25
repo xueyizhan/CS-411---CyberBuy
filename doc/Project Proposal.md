@@ -34,7 +34,12 @@ Also, there are some public databases that we will use as a reference, like Kagg
 The home page provides a navigation bar with functionalities like login/register, go to product list and so on. 
 
 ### 2. Login/Register page
-https://tva1.sinaimg.cn/large/e6c9d24egy1h6imts24cdj20ew0b13yk.jpg
+<img width="276" alt="image" src="https://user-images.githubusercontent.com/112656252/192125371-8970394f-8778-40b4-a677-6ae59617db8c.png">
+
+The login/register page allows user to login or register.
+
+### 3.
+
 
 
 
