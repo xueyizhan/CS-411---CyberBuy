@@ -30,9 +30,11 @@ Also, there are some public databases that we will use as a reference, like Kagg
 ## Functionality & UI mockup:
 ### 1. Home Page
 [<img width="387" alt="image" src="https://user-images.githubusercontent.com/112656252/192124452-417ec471-80d0-4d7a-b8fc-3b7949e28b9c.png">](https://tva1.sinaimg.cn/large/e6c9d24egy1h6ilky50vej20li0fggmd.jpg)
+
 The home page provides a navigation bar with functionalities like login/register, go to product list and so on. 
 
-### 2. 
+### 2. Login/Register page
+https://tva1.sinaimg.cn/large/e6c9d24egy1h6imts24cdj20ew0b13yk.jpg
 
 
 
