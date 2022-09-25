@@ -34,12 +34,12 @@ Also, there are some public databases that we will use as a reference, like Kagg
 The home page provides a navigation bar with functionalities like login/register, go to product list and so on. 
 
 ### 2. Login/Register page
-<img width="276" alt="image" src="https://user-images.githubusercontent.com/112656252/192125371-8970394f-8778-40b4-a677-6ae59617db8c.png">
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6imts24cdj20ew0b13yk.jpg)
 
 The login/register page allows user to login or register.
 
 ### 3. Account Page
-<img width="367" alt="image" src="https://user-images.githubusercontent.com/112656252/192125410-efe65f06-ed1a-46e4-b45e-4f6377dea48b.png">
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6in1pspb7j20ke0ei74k.jpg)
 
 If user is logged in as a customer, then the account page would show options to edit personal details and view purchase history.
 
@@ -48,11 +48,78 @@ If user is logged in as a customer, then the account page would show options to 
 
 The product page contains a product list that can be filtered with price, condition, and delivery options. This page as well provides product categories and search boxes, helping customers to find products easier.
 
+### 5. Product Detail Page - Customer
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6in2z9nf9j20ly0ggabc.jpg)
 
+The product detail page contains the information about a product, user could view the product information and add the product to cart.
 
+### 6. Cart Page - Customer
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6in3rcdb2j20jk0de74o.jpg)
 
+The cart page gives a list of products the users had added to the cart. Users could edit the number of products and place an order on this page.
 
+### 7. Order Submit Page - Customer
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6in53g6yjj20lw0ewglv.jpg)
 
+This page is to confirm an order has been placed successfully while provide a valid order number. 
 
+### 8. Purchase History Page - Customer
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6in5y8vofj20q00ii0te.jpg)
 
+This page provides a view for users’ purchased product, user could check the order status for this product.
+
+### 9. Order status Page - Customer
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6ingzxi4cj20ke0eidg1.jpg)
+
+This page showed the order status for a specific product with a dynamic process bar.
+
+### 10. Start Page - Seller
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6injltjcfj20q00igmy8.jpg)
+
+If the user logins in as a seller, he will be redirected to this page. The user can choose to upload products, view products, update products, view orders, and view the selling report.
+
+### 11. Upload Product Pages - Seller
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6inkd9puvj20q00ii3yv.jpg)
+
+In this page, the sellers can upload new product to their online shop. The information includes product name, product type(select), price, stock, and description. The sellers are also required to upload an image for  the new product.
+
+### 12. View Product Pages - Seller
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6inocrwywj20q00ikjs1.jpg)
+
+In this page, sellers can view the information about their products. By clicking on the update button, they can enter the Update products page to revise the information of the products.
+
+### 13. Update Products Page - Seller
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6inp97o8mj20lw0em3yn.jpg)
+
+In this page, the sellers can update the information of their products.
+
+### 14. View Order Page - Seller
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6inq9is9cj20ko0e8dg5.jpg)
+
+In this page, the sellers can view their current orders. They can see the customerID, orderID and Status. By clicking on the update page, they can update the status of the order.
+
+### 15. Update order page
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6inv2adiqj20ma0f4mx9.jpg)
+
+In this page, the sellers can change the status of the order.
+
+### 16. Selling Reports - Seller
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6invyjt3wj20q00iadgi.jpg)
+
+In this page, the sellers can view their monthly selling report.
+
+### 17. Main Page - Administrator
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6inwqe2b6j20q00i8wff.jpg)
+
+If the user logins in as an admin, he will be redirected to this page. The user can choose to update information and view orders.
+
+### 18. Current Order Page - Administrator
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6iny0rn6nj20q00ict9b.jpg)
+
+The admin can also view the orders and edit them. They can also see the sellerID of the order.
+
+### 19. Upload Info Page - Administrator
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6io08we7lj20q00i83ys.jpg)
+
+In this page the admin can change the information on Contact us and About us pages.
 
