@@ -38,7 +38,17 @@ The home page provides a navigation bar with functionalities like login/register
 
 The login/register page allows user to login or register.
 
-### 3.
+### 3. Account Page
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/112656252/192125410-efe65f06-ed1a-46e4-b45e-4f6377dea48b.png">
+
+If user is logged in as a customer, then the account page would show options to edit personal details and view purchase history.
+
+### 4. Product Page - Customer
+<img width="395" alt="image" src="https://user-images.githubusercontent.com/112656252/192125424-76ee2082-d712-45d5-bddf-418056703ff6.png">
+
+The product page contains a product list that can be filtered with price, condition, and delivery options. This page as well provides product categories and search boxes, helping customers to find products easier.
+
+
 
 
 
