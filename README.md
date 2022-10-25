@@ -1,6 +1,6 @@
 # CS-411---CyberBuy
 
-Stage 1. Project Overall Proposa;l
+Stage 1. Project Overall Proposal
 
 State 2. UML Schema Design
 
