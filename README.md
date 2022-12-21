@@ -1,5 +1,8 @@
-# fa22-cs411-Q-team011-NGGYU
+# fa22-cs411-CyberBuy
 
+
+
+#### prep work
 enviroment setup:
 pip install django
 
