@@ -1,4 +1,4 @@
-# fa22-cs411-Q-team011-NGGYU
+# fa22-cs411-CyberBuy
 
 #### Stage 1: Project Description
 
@@ -14,11 +14,8 @@
 
 
 
-##### Prep work
 
-enviroment setup:
-pip install django
-
+#### prep work
 pip install djangorestframework
 
 pip install djangorestframework-simplejwt
