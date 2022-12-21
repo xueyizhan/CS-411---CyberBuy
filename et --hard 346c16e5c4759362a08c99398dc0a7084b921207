@@ -1,0 +1,119 @@
+[33mcommit 48baed0fbb27ff0a7a09e91c4dafe5428352ace0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Thu Nov 10 07:18:11 2022 -0600
+
+    add update and create api TODO:key word search and authentication
+
+[33mcommit a0f55470625ea610317787ff31d10a12b7a8219e[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Wed Nov 9 22:53:40 2022 -0600
+
+    solve error due to weak entity
+
+[33mcommit 346c16e5c4759362a08c99398dc0a7084b921207[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Wed Nov 9 11:00:42 2022 -0600
+
+    backend-cors-solved
+
+[33mcommit c2f7f83a072d5e19ea057041c97fbef22dfd3ef7[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Wed Nov 9 04:02:59 2022 -0600
+
+    add all get api for merchant.Todo: error due to weak entity
+
+[33mcommit 6e67e11a3a659095b1a3324ca6d24305cebdc7ac[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Tue Nov 8 16:00:03 2022 -0600
+
+    add basic files
+
+[33mcommit bcaa0109fb8256dbb9b1c1cf7eb85642a70e5322[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Tue Nov 8 15:53:53 2022 -0600
+
+    add basic files
+
+[33mcommit c879c4edbc00b3d65069891f73bb29fd5b2edea6[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Tue Nov 8 15:19:29 2022 -0600
+
+    add azure server
+
+[33mcommit 9ddf59a2dbcf0f956fd06e665a960f0f3b7b9c1d[m[33m ([m[1;33mtag: stage.3[m[33m)[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Thu Oct 20 16:19:26 2022 -0500
+
+    stage3
+
+[33mcommit a19093c5abc87e712e41e8c1dfd30a6dc908483c[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Sat Oct 15 17:16:05 2022 -0500
+
+    Stage 2
+
+[33mcommit 343a6cbad7e02bccb7238ae3c1597e58f64a57d7[m[33m ([m[1;33mtag: stage.2[m[33m)[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Wed Oct 5 21:35:22 2022 -0500
+
+    stage2
+
+[33mcommit 184c72853f81b945644eb26a1efeac7dd3d197c2[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Sat Sep 24 22:24:15 2022 -0500
+
+    Update TeamInfo.md
+
+[33mcommit 682b9257081693314eb4dd34447b7bf1dc949eaf[m[33m ([m[1;33mtag: stage.1[m[33m)[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Sat Sep 24 20:21:13 2022 -0500
+
+    Stage.1
+
+[33mcommit 09882227b02a33c6832cecf248866618962dece3[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Sat Sep 24 20:19:33 2022 -0500
+
+    stage.1
+
+[33mcommit 75953fecd73eee5d2c68d85e41b82a2368b13646[m
+Author: Runyu Liu <112272153+lry6789@users.noreply.github.com>
+Date:   Sat Sep 24 20:00:34 2022 -0500
+
+    Update TeamInfo.md
+
+[33mcommit 7f1329c3808ebcfe1e3ab142b1289d700b90c2b2[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Sat Sep 24 19:48:24 2022 -0500
+
+    create doc
+
+[33mcommit 0b287088c7aa591b79d9d77659f292121b8c5d27[m
+Author: lry6789 <cleansexd1@gmail.com>
+Date:   Sat Sep 24 19:45:45 2022 -0500
+
+    create doc
+
+[33mcommit 5d296193473335a156713a4d6ee6cde7abdcb16f[m
+Author: Yizhan Xue <112656252+xueyizhan@users.noreply.github.com>
+Date:   Sat Sep 24 19:43:01 2022 -0500
+
+    Create doc
+
+[33mcommit b88be42ca898b590ee3371f72dc5edc5d39d0375[m[33m ([m[1;33mtag: stage.0[m[33m)[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Wed Sep 14 20:39:00 2022 -0500
+
+    Update TeamInfo.md
+
+[33mcommit cf076946e7231a959523e821ff81505eed8cea90[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Wed Sep 14 20:30:36 2022 -0500
+
+    Create TeamInfo.md
+
+[33mcommit 58b94a13d995cecaea323fcb7b72449854ebf1b5[m
+Author: ReeseSun <98066506+WeiruSun@users.noreply.github.com>
+Date:   Wed Sep 14 20:08:33 2022 -0500
+
+    Initial commit

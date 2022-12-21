@@ -1,9 +1,12 @@
-# CS-411---CyberBuy
+# fa22-cs411-Q-team011-NGGYU
 
-Stage 1. Project Overall Proposal
+enviroment setup:
+pip install django
 
-State 2. UML Schema Design
+pip install djangorestframework
 
-Stage 3: Database Implementation and Indexing
+pip install djangorestframework-simplejwt
 
-More codes to be uploaded soon ... 
+pip install pymysql
+
+pip install django-cors-headers
